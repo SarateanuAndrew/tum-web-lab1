@@ -20,11 +20,14 @@
 .address {
     text-align: end;
 }
-
 .mainTitle {
     color: cornflowerblue;
 }
 .column2 {
     display: flex;
     flex-direction: column;
+
+}
+.miniTitle {
+    color: cornflowerblue;
 }
