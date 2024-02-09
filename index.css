@@ -1,4 +1,3 @@
-
 .bod {
     display: flex;
     gap: 24px;
@@ -20,4 +19,12 @@
 }
 .address {
     text-align: end;
+}
+
+.mainTitle {
+    color: cornflowerblue;
+}
+.column2 {
+    display: flex;
+    flex-direction: column;
 }
