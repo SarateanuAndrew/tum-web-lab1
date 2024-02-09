@@ -1,0 +1,19 @@
+
+.bod {
+    display: flex;
+    gap: 24px;
+}
+.column1 {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.myInfo {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.address {
+    text-align: end;
+}
